@@ -1,2 +1,41 @@
-# de6ed56b-sustainability-green-client
-Your green business is losing clients during onboarding because manual paperwork contradicts your sustainability mission. Stop the friction—automate your entire client onboarding process with intelligent workflows that prove you're serious about eco-friendly operations.  This N8N workflow eliminates manual onboarding steps, reduces paper waste, and
+# Sustainability & Green Client Onboarding Automation N8N Workflow
+
+> Workflow for Sustainability Green
+
+Your green business is losing clients during onboarding because manual paperwork contradicts your sustainability mission. Stop the friction—automate your entire client onboarding process with intelligent workflows that prove you're serious about eco-friendly operations.
+
+This N8N workflow eliminates manual onboarding steps, reduces paper waste...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/28EbJ14eP4sc4pqcDWcZs47)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
